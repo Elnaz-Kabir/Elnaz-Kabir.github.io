@@ -1,0 +1,52 @@
+# jemdoc: nofooter, menu{MENU}{research.html}
+#
+= Elnaz Kabir - Publication
+
+== Published Papers
+
+. [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8703843 Predicting Thunderstorm-induced Power Outages to Support Utility Restoration], \n
+*E. Kabir*, S. Guikema, and S. Quiring (2019), *IEEE Transactions on Power Systems*, Vol. 34 (6), 4370-4381. \n
+		(Collaboration with Southern Company.)
+
+. [https://www.sciencedirect.com/science/article/pii/S095183201730707X Statistical Modeling of Tree Failures During Storms], \n
+*E. Kabir*, S. Guikema, and B. Kane (2018),  *Reliability Engineering and System Safety*, Vol. 177, 68-79. \n
+		Winner of the Best Poster Award at the Society for Risk Analysis (SRA) Annual Meeting (Dec 2016)
+
+. [https://www.sciencedirect.com/science/article/pii/S0377221715007833?via%3Dihub Hybrid Robust and Stochastic Optimization Approach for Closed-loop Supply Chain Design Network using an Accelerated Benders Decomposition], \n 
+E. Keyvanshokooh, S.M. Ryan, and *E. Kabir* (2016), *European Journal of Operational Research*, Vol. 249 (1), 76-92. \n
+		Among the 25 most cited articles published in EJOR since 2016.
+
+== Prepared Papers
+
+. An Assessment of Drivers of Power System Damage During Severe Weather, \n 
+*E. Kabir*, S. Guikema, S. Quiring, and B. McRoberts (2022).
+
+. Power Outage Prediction Using Data Streams: An Adaptive Ensemble Learning Approach with a Feature- and Performance-based Weighting Mechanism, \n
+*E. Kabir*, S. Guikema, and S. Quiring (2022).
+
+
+== Working Papers
+
+. Data-driven Adaptive Crew Coordination Model for Power Outage Restoration, \n
+E. Kabir and S. Guikema (2022).
+
+
+== Seminars and Conference Presentations
+
+. E. Kabir, S. Guikema (2021), “A Repair Crew Coordination Model Under Uncertainty for Power Outage Restoration”, Virtual SRA Annual Meeting,.
+
+. E. Kabir, S. Guikema, and S. Quiring (2020), “Adaptive Two-stage Bayesian Model Averaging for Estimating the Impact of Hazards on Power System Service”, Virtual INFORMS Annual Meeting.
+
+. E. Kabir, S. Guikema, and S. Quiring (2019), “Predicting Daily Power Outages Using a Bayesian Model Averaging”, SRA Annual Meeting, Arlington, VA, USA.
+
+. E. Kabir, S. Guikema, and S. Quiring (2019), “Predicting Daily Power Outages Using a Bayesian Model Averaging Approach”, INFORMS Annual Meeting, Seatle, WA, USA.
+
+. E. Kabir, S. Guikema, and S. Quiring (2018), “Developing Probabilistic Models for Predicting Zero-inflated Power-Outages”, SRA Annual Meeting, New Orleans, LA, USA.
+
+. E. Kabir, S. Guikema, and S. Quiring (2018), “Probabilistic Mixture Models for Predicting Unbalanced Thunderstorm-Induced Power-Outages”, INFORMS Annual Meeting, Phoenix, AZ, USA.
+
+. E. Kabir and S. Guikema (2017), “Learning from Imbalanced Data Sets for Estimating Power-Outages”, SRA Annual Meeting, Arlington, VA, USA.
+
+. E. Kabir and S. Guikema (2016), “Learning of Imbalanced Data for Predicting the Power-Outages”, INFORMS Annual Meeting, Nashville, PA, USA.
+
+. E. Kabir, S. Guikema, and B. Kane, (2016), “Statistical Modeling of Tree Failures During Storms”, Joint Statistical Meeting, Baltimore, MD, USA.
